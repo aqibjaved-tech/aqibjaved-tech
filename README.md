@@ -1,12 +1,12 @@
- <div align="center">
+  <div align="center">
 
 # AQIB JAVED
 
-### Full Stack Developer · Backend Engineer · AI Enthusiast
+### Full Stack Developer · Backend Engineer · AI Engineer
 
-**Building software. Engineering solutions. Exploring intelligence.**
+**Building software. Engineering solutions. Developing intelligent systems.**
 
-I develop scalable applications, intelligent systems, and production-ready software with a passion for solving real-world engineering challenges.
+I develop scalable applications, intelligent systems, and production-ready software, combining full-stack engineering, backend architecture, and applied AI.
 
 <br/>
 
